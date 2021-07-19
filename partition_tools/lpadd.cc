@@ -15,7 +15,6 @@
 #include <getopt.h>
 #include <sysexits.h>
 #include <unistd.h>
-#include <string.h>
 
 #include <iostream>
 #include <optional>
